@@ -42,5 +42,13 @@ main {
 }
 
 .tim-photo {
-    padding-top: 20px;
+    padding: 20px 0;
+}
+
+ul {
+    padding: 20px
+}
+
+.marked {
+    background-color: yellow;
 }

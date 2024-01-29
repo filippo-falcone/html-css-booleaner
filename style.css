@@ -54,6 +54,10 @@ ul {
     background: yellow;
 }
 
+table {
+    border-spacing: 0;
+}
+
 thead {
     text-align: left;
     background: #20a9e5;

@@ -13,3 +13,30 @@ header {
 img {
     max-width: 250px;
 }
+
+main {
+    padding: 10px;
+}
+
+.title-photo {
+    font-size: 13px;
+}
+
+#title {
+    padding-top: 10px;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+#sub-title,
+#data {
+    color: #808080;
+}
+
+#sub-title {
+    font-size: 20px;
+}
+
+#author {
+    color: #20a9e5;
+}

@@ -1,0 +1,15 @@
+/* Colori:
+Azzurro header #4ea0ff
+Testo in grigio #808080
+Colore azzurro "the booleaner" e intestazione tabella #20a9e5
+Colore azzurro righe tabella #b1e5f2 */
+
+header {
+    background: #4ea0ff url("./img/pattern.png");
+    background-size: 300px;
+    padding: 30px 10px 0;
+}
+
+img {
+    max-width: 250px;
+}

@@ -22,7 +22,8 @@ main {
     font-size: 13px;
 }
 
-#title {
+h1 {
+    margin: 0;
     padding-top: 10px;
     font-weight: 900;
     font-size: 40px;

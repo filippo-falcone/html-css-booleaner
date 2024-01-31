@@ -1,0 +1,85 @@
+/* ------------
+     RESET
+------------ */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ------------
+    GENERAL
+------------ */
+body {
+    font-family: 'Lora', serif;
+    background-color: blanchedalmond;
+}
+
+header {
+    background-color: #ed7d31;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+/* ------------
+ TITLE & PHOTO
+------------ */
+.title-photo>h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#sub-title {
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.tim-photo img {
+    width: 350px;
+    height: 250px;
+}
+
+/* ------------
+ TEXT SECTION
+------------ */
+.marked {
+    background-color: coral;
+}
+
+/* ------------
+     TABLE
+------------ */
+thead {
+    background-color: #ed7d31;
+}
+
+.ciano {
+    background-color: #f4b404;
+}
+
+tbody:nth-child(2) {
+    background-color: #fce4d6;
+}
+
+p:last-child {
+    margin-top: 20px;
+}
+
+/* ------------
+ MORE ARTICLES
+------------ */
+.more-article {
+    margin-top: 10px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+.article.top,
+.article.bottom {
+    display: inline-block;
+}
